@@ -4,6 +4,18 @@ body {
   padding-bottom: 20px;
 }
 
+ul.nav, .jumbotron h1 {
+	font-family: 'Arvo', courier, serif;
+
+}
+
 .jumbotron {
 	text-align: center;
+	background-image: url('../images/golfcourse.jpg');
+	color: white;
+	font-weight: 100
+}
+
+.btn-lg {
+	font-size: 36px;
 }
